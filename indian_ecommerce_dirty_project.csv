@@ -1,0 +1,151 @@
+order_id,customer_name,email,phone,city,state,product_name,category,price,quantity,order_date,delivery_date,payment_method,order_status,rating
+0.0,Anjali Gupta,AnjaliGupta@gmail,+91-7499270951,delhi,Karnataka,Backpack,fashion,22873rs,-1.0,March 5 2024,2024/03/20,COD,Delivered,4.0
+,karan sharma ,KaranSharma@gmail,72780 61669,mumbai ,Maharashtra,Tablet,Accessories,₹33354,-1.0,12-03-24,2024/03/20,Online,Delivered,3.0
+2.0,Meena Jain,MeenaJain@gmail,83186 40980,Chennai,Tamil Nadu,Mobile,Electronics,40743,1.0,2024/03/15,,COD,Delivered,-1.0
+,Priya Gupta,priyagupta14@outlook.com,69850 85460,Bangalore,Karnataka,Shoes,Electronics,₹16643,,March 5 2024,2024/03/20,cod,Delivered,7.0
+,Arjun Singh,arjunsingh62.yahoo.com,8505824332,kolkata ,West Bengal,Headphones,fashion,42630,,March 5 2024,2024/03/20,Online,Pending,2.0
+,Arjun Kumar,arjunkumar79@gmail.com,+91-7961224527,delhi,Maharashtra,Shoes,electronics,₹2858,1.0,March 5 2024,15-03-24,Online,Delivered,2.0
+,Vikas Mehta,VIKASMEHTA80@GMAIL.COM,8621146708,Chennai,Tamil Nadu,Watch,Electronics,28340,3.0,12-03-24,15-03-24,Online,delivered,2.0
+7.0,rahul agarwal ,RAHULAGARWAL66@OUTLOOK.COM,+91-6403138462,hyderabad ,Telangana,Laptop,Fashion,13596rs,1.0,March 5 2024,15-03-24,COD,Pending,4.0
+,Karan Patel,KaranPatel@gmail,9664172958,delhi,Tamil Nadu,Headphones,accessories,40094rs,2.0,12-03-24,,COD,Delivered,5.0
+9.0,Vikas Singh,VIKASSINGH67@YAHOO.COM,82415 15392,delhi,Karnataka,Laptop,accessories,14097,1.0,March 5 2024,,Online,Pending,4.0
+,Meena Jain,MeenaJain@gmail,8556610409,mumbai ,Maharashtra,Camera,Accessories,₹44508,-1.0,12-03-24,15-03-24,Online,Delivered,7.0
+11.0,Rohit Gupta,rohitgupta55@yahoo.com,+91-7685671813,Chennai,Tamil Nadu,Backpack,accessories,8342,3.0,12-03-24,15-03-24,Online,Pending,3.0
+12.0,Priya Mehta,priyamehta46@outlook.com,+91-7137986071,delhi,Maharashtra,Backpack,electronics,20230,-1.0,12-03-24,,COD,Delivered,3.0
+13.0,Amit Patel,amitpatel72@outlook.com,8974743966,delhi,West Bengal,Shoes,accessories,₹13614,2.0,March 5 2024,2024/03/20,Online,Pending,
+,Neha Patel,NEHAPATEL79@OUTLOOK.COM,+91-6665038996,delhi,Tamil Nadu,Shoes,electronics,₹44374,-1.0,2024/03/15,,Online,delivered,2.0
+15.0,Pooja Agarwal,poojaagarwal18.gmail.com,81091 86094,kolkata ,West Bengal,Tablet,Fashion,42244,2.0,12-03-24,,cod,delivered,5.0
+,Sneha Sharma,snehasharma34@outlook.com,96297 57277,delhi,Telangana,Camera,fashion,17731rs,2.0,2024/03/15,15-03-24,Online,Delivered,5.0
+17.0,Rohit Sharma,RohitSharma@gmail,74894 39765,delhi,Gujarat,Backpack,accessories,18573rs,2.0,12-03-24,2024/03/20,COD,Delivered,3.0
+18.0,Arjun Verma,arjunverma83.gmail.com,+91-9977913161,delhi,Maharashtra,Camera,electronics,27233,1.0,12-03-24,2024/03/20,Online,Delivered,1.0
+,rahul jain ,RAHULJAIN62@OUTLOOK.COM,8587730220,hyderabad ,Telangana,Backpack,electronics,7351,1.0,2024/03/15,15-03-24,cod,Pending,2.0
+20.0,Sneha Sharma,snehasharma48@gmail.com,63149 73420,Delhi,Delhi,Mobile,Fashion,24314,2.0,March 5 2024,,Online,Pending,4.0
+21.0,Neha Sharma,NEHASHARMA36@YAHOO.COM,8525162873,delhi,Gujarat,Mobile,Fashion,₹29112,-1.0,2024/03/15,,Online,Delivered,4.0
+,Rohit Yadav,rohityadav50@outlook.com,+91-9035177206,delhi,Maharashtra,Mobile,Accessories,₹48656,1.0,12-03-24,,COD,delivered,
+23.0,Anjali Mehta,AnjaliMehta@gmail,+91-9422591753,Delhi,Delhi,Shoes,Electronics,36721rs,1.0,2024/03/15,15-03-24,COD,Pending,-1.0
+,Anjali Agarwal,ANJALIAGARWAL51@OUTLOOK.COM,9681958660,Chennai,Tamil Nadu,Tablet,Fashion,₹34108,3.0,2024/03/15,2024/03/20,COD,Pending,
+25.0,Vikas Yadav,VIKASYADAV12@GMAIL.COM,86440 56546,delhi,Maharashtra,Backpack,Electronics,30401,1.0,12-03-24,,Online,delivered,-1.0
+26.0,Amit Patel,AMITPATEL13@YAHOO.COM,84562 66834,delhi,Gujarat,Tablet,Accessories,43538,3.0,12-03-24,2024/03/20,cod,delivered,7.0
+,Rohit Singh,ROHITSINGH36@GMAIL.COM,8609811509,delhi,Gujarat,Laptop,Electronics,45481,2.0,March 5 2024,2024/03/20,Online,Delivered,2.0
+28.0,rohit yadav ,rohityadav15.yahoo.com,+91-9039669909,Mumbai,Maharashtra,Tablet,accessories,37915,,2024/03/15,15-03-24,COD,Pending,1.0
+29.0,Meena Verma,meenaverma28.yahoo.com,72598 00224,Bangalore,Karnataka,Watch,Fashion,37758,-1.0,12-03-24,,cod,delivered,
+30.0,Priya Agarwal,priyaagarwal69@yahoo.com,95089 71951,chennai ,Tamil Nadu,Tablet,Electronics,29326rs,,12-03-24,,COD,delivered,1.0
+31.0,Arjun Gupta,ArjunGupta@gmail,72915 24441,Bangalore,Karnataka,Shoes,fashion,18150rs,2.0,March 5 2024,15-03-24,Online,delivered,-1.0
+32.0,Rahul Jain,rahuljain35@outlook.com,+91-7875547879,pune ,Maharashtra,Backpack,electronics,₹21348,,12-03-24,15-03-24,cod,Pending,5.0
+33.0,Karan Agarwal,KARANAGARWAL91@YAHOO.COM,74039 51501,Ahmedabad,Gujarat,Laptop,Accessories,₹23823,2.0,2024/03/15,2024/03/20,cod,delivered,1.0
+,rahul verma ,RAHULVERMA68@OUTLOOK.COM,+91-7887930888,Chennai,Tamil Nadu,Headphones,Electronics,₹40869,3.0,2024/03/15,2024/03/20,COD,Delivered,5.0
+35.0,Sneha Jain,snehajain35@gmail.com,8478232947,Ahmedabad,Gujarat,Mobile,Accessories,₹48941,-1.0,2024/03/15,2024/03/20,Online,delivered,2.0
+,Pooja Sharma,poojasharma36@gmail.com,+91-7931276422,Kolkata,West Bengal,Watch,Electronics,13427rs,,March 5 2024,15-03-24,Online,Pending,-1.0
+,Meena Singh,MEENASINGH51@OUTLOOK.COM,+91-8717682343,delhi,Delhi,Headphones,fashion,₹41789,2.0,March 5 2024,,Online,Delivered,2.0
+38.0,Karan Jain,KaranJain@gmail,+91-6519416250,Hyderabad,Telangana,Camera,accessories,₹34785,-1.0,12-03-24,,COD,Pending,1.0
+39.0,sneha patel ,snehapatel90@gmail.com,+91-9025017706,Ahmedabad,Gujarat,Backpack,fashion,1406rs,2.0,2024/03/15,15-03-24,Online,Delivered,-1.0
+,Amit Singh,amitsingh33.yahoo.com,7245013424,delhi,West Bengal,Backpack,fashion,1132rs,2.0,12-03-24,2024/03/20,cod,delivered,1.0
+41.0,Anjali Singh,ANJALISINGH22@GMAIL.COM,7581716034,delhi,Maharashtra,Tablet,accessories,₹42933,2.0,March 5 2024,2024/03/20,Online,Pending,4.0
+42.0,Anjali Mehta,ANJALIMEHTA24@YAHOO.COM,+91-8394698635,Chennai,Tamil Nadu,Shoes,electronics,37232,3.0,2024/03/15,2024/03/20,Online,Pending,2.0
+43.0,Karan Gupta,karangupta69.outlook.com,7739970173,Kolkata,West Bengal,Tablet,electronics,22803,-1.0,March 5 2024,2024/03/20,COD,delivered,7.0
+44.0,Sneha Kumar,SnehaKumar@gmail,6407232390,delhi ,Delhi,Tablet,fashion,₹39696,3.0,2024/03/15,2024/03/20,Online,Pending,7.0
+45.0,Amit Patel,AmitPatel@gmail,83918 41694,hyderabad ,Telangana,Backpack,Electronics,27448,,2024/03/15,15-03-24,Online,Delivered,3.0
+46.0,Rahul Gupta,RahulGupta@gmail,7992500954,kolkata ,West Bengal,Headphones,electronics,₹45810,,March 5 2024,2024/03/20,Online,Delivered,
+,Rahul Singh,rahulsingh58@gmail.com,6616916353,pune ,Maharashtra,Watch,fashion,40932rs,,2024/03/15,15-03-24,Online,Pending,7.0
+48.0,Priya Sharma,PRIYASHARMA75@GMAIL.COM,8882165054,delhi,Maharashtra,Camera,fashion,₹21300,1.0,2024/03/15,2024/03/20,COD,Pending,3.0
+49.0,Pooja Verma,POOJAVERMA48@GMAIL.COM,94113 65877,Ahmedabad,Gujarat,Laptop,Fashion,₹33126,3.0,March 5 2024,15-03-24,cod,delivered,-1.0
+,Sneha Gupta,SNEHAGUPTA73@OUTLOOK.COM,6618503515,Pune,Maharashtra,Headphones,fashion,₹35050,2.0,12-03-24,15-03-24,cod,Delivered,2.0
+,anjali gupta ,anjaligupta36.outlook.com,+91-9236210378,pune ,Maharashtra,Mobile,accessories,39437rs,,12-03-24,,COD,delivered,1.0
+52.0,Vikas Verma,VIKASVERMA45@OUTLOOK.COM,+91-9314095027,Delhi,Delhi,Backpack,Accessories,27522rs,2.0,2024/03/15,2024/03/20,cod,delivered,5.0
+53.0,Meena Kumar,meenakumar71@gmail.com,+91-6242489711,Chennai,Tamil Nadu,Shoes,Fashion,26968,1.0,March 5 2024,15-03-24,COD,Delivered,
+54.0,Priya Sharma,PRIYASHARMA62@GMAIL.COM,+91-8960424695,kolkata ,West Bengal,Mobile,Fashion,38706rs,,12-03-24,2024/03/20,Online,Pending,4.0
+55.0,Priya Singh,priyasingh61@outlook.com,+91-7260704755,Delhi,Delhi,Headphones,Fashion,1250rs,2.0,12-03-24,2024/03/20,COD,delivered,-1.0
+,Pooja Sharma,PoojaSharma@gmail,+91-7746175058,Pune,Maharashtra,Headphones,accessories,14847,-1.0,2024/03/15,15-03-24,cod,Pending,-1.0
+,Rohit Sharma,rohitsharma36@outlook.com,7460444717,delhi,Gujarat,Headphones,Electronics,₹49538,-1.0,March 5 2024,,COD,delivered,-1.0
+,Neha Jain,NEHAJAIN25@GMAIL.COM,8555756998,mumbai ,Maharashtra,Camera,fashion,₹25532,,2024/03/15,,Online,Delivered,2.0
+59.0,Neha Kumar,NEHAKUMAR92@OUTLOOK.COM,+91-8221577302,delhi,Maharashtra,Watch,Fashion,42714,1.0,12-03-24,,COD,delivered,2.0
+60.0,Vikas Sharma,vikassharma33@outlook.com,88521 73123,delhi,Gujarat,Laptop,accessories,27588rs,,2024/03/15,2024/03/20,Online,Delivered,
+61.0,Anjali Jain,anjalijain11@yahoo.com,+91-6031910194,Ahmedabad,Gujarat,Shoes,electronics,₹30984,,2024/03/15,,Online,Delivered,5.0
+62.0,Sneha Verma,SnehaVerma@gmail,71092 34564,pune ,Maharashtra,Headphones,electronics,₹8364,,March 5 2024,,COD,delivered,-1.0
+,Sneha Singh,snehasingh41@outlook.com,96872 35386,ahmedabad ,Gujarat,Watch,Fashion,15128rs,3.0,March 5 2024,2024/03/20,COD,delivered,4.0
+64.0,Sneha Agarwal,SnehaAgarwal@gmail,96390 36937,Chennai,Tamil Nadu,Backpack,Fashion,₹4539,,12-03-24,15-03-24,Online,Pending,7.0
+65.0,meena gupta ,meenagupta33@outlook.com,92582 71408,kolkata ,West Bengal,Shoes,electronics,₹12941,1.0,12-03-24,,Online,delivered,2.0
+66.0,Karan Singh,karansingh40.gmail.com,9122878946,Bangalore,Karnataka,Tablet,accessories,9334,-1.0,12-03-24,2024/03/20,Online,Pending,
+67.0,meena jain ,MeenaJain@gmail,8532557060,delhi,Telangana,Headphones,accessories,₹6908,-1.0,2024/03/15,,COD,Delivered,-1.0
+,Vikas Singh,vikassingh41@yahoo.com,8721296643,delhi ,Delhi,Watch,Electronics,33140,3.0,2024/03/15,2024/03/20,cod,Pending,4.0
+69.0,Rohit Verma,RohitVerma@gmail,8735827879,ahmedabad ,Gujarat,Mobile,fashion,31699rs,1.0,2024/03/15,2024/03/20,cod,delivered,-1.0
+,Neha Gupta,NEHAGUPTA10@OUTLOOK.COM,+91-7431102355,Hyderabad,Telangana,Laptop,Accessories,₹7334,3.0,12-03-24,,Online,delivered,4.0
+71.0,Priya Yadav,priyayadav14.outlook.com,99849 45944,Ahmedabad,Gujarat,Camera,Fashion,31193,1.0,2024/03/15,,cod,delivered,5.0
+72.0,Anjali Kumar,anjalikumar10@yahoo.com,94497 42212,Hyderabad,Telangana,Shoes,electronics,2717rs,,2024/03/15,15-03-24,cod,delivered,1.0
+,Vikas Kumar,vikaskumar10.gmail.com,82953 70419,Delhi,Delhi,Laptop,electronics,36595,2.0,March 5 2024,15-03-24,cod,Pending,1.0
+74.0,Meena Agarwal,meenaagarwal41@yahoo.com,+91-6651372004,hyderabad ,Telangana,Mobile,fashion,₹48611,,March 5 2024,15-03-24,Online,Delivered,7.0
+75.0,rohit singh ,rohitsingh25@outlook.com,+91-9380983253,Bangalore,Karnataka,Laptop,electronics,38146,3.0,2024/03/15,15-03-24,COD,delivered,1.0
+76.0,Anjali Patel,anjalipatel62.outlook.com,7509703230,delhi,West Bengal,Headphones,fashion,24793rs,2.0,2024/03/15,15-03-24,Online,Delivered,7.0
+77.0,priya patel ,PriyaPatel@gmail,+91-7572883924,Pune,Maharashtra,Headphones,electronics,9618,,12-03-24,2024/03/20,Online,Delivered,7.0
+78.0,vikas yadav ,vikasyadav56.gmail.com,9271114831,delhi,Telangana,Headphones,electronics,32954rs,1.0,2024/03/15,,COD,Pending,4.0
+,Karan Singh,karansingh63.yahoo.com,96759 76388,Chennai,Tamil Nadu,Watch,Electronics,17791,1.0,2024/03/15,,COD,Pending,7.0
+,Rahul Patel,rahulpatel63.yahoo.com,72676 86658,chennai ,Tamil Nadu,Shoes,electronics,23354,-1.0,12-03-24,2024/03/20,COD,Pending,4.0
+81.0,Karan Singh,KaranSingh@gmail,7302444492,pune ,Maharashtra,Shoes,fashion,8245rs,2.0,12-03-24,,cod,Pending,-1.0
+82.0,Pooja Agarwal,PoojaAgarwal@gmail,+91-9308804133,delhi,Delhi,Shoes,accessories,8336,1.0,March 5 2024,15-03-24,COD,delivered,5.0
+83.0,Neha Verma,NehaVerma@gmail,+91-7636639264,Pune,Maharashtra,Camera,fashion,₹18259,2.0,2024/03/15,15-03-24,Online,delivered,5.0
+84.0,Amit Mehta,amitmehta92.gmail.com,+91-9315634344,delhi,Maharashtra,Mobile,Accessories,16514rs,3.0,2024/03/15,,Online,delivered,3.0
+,Vikas Singh,vikassingh35@outlook.com,72594 90947,delhi,Maharashtra,Laptop,Accessories,10224rs,,2024/03/15,15-03-24,Online,Pending,3.0
+,Rahul Jain,rahuljain51.gmail.com,+91-7992074513,Pune,Maharashtra,Mobile,Fashion,4130rs,3.0,12-03-24,15-03-24,Online,delivered,4.0
+87.0,Anjali Verma,AnjaliVerma@gmail,+91-6865292283,chennai ,Tamil Nadu,Shoes,Accessories,20962,3.0,12-03-24,,Online,delivered,4.0
+,rahul singh ,RAHULSINGH37@GMAIL.COM,7858332674,delhi,Telangana,Tablet,fashion,40301,3.0,12-03-24,2024/03/20,cod,Pending,4.0
+,Priya Jain,PriyaJain@gmail,75008 42640,delhi,Gujarat,Laptop,electronics,13956,3.0,2024/03/15,,cod,Delivered,3.0
+90.0,Amit Yadav,amityadav65@outlook.com,9812868199,delhi ,Delhi,Tablet,Accessories,45168rs,-1.0,2024/03/15,2024/03/20,Online,Delivered,-1.0
+91.0,Sneha Yadav,SNEHAYADAV97@GMAIL.COM,86013 22619,hyderabad ,Telangana,Laptop,Accessories,43389,3.0,2024/03/15,15-03-24,Online,Delivered,4.0
+92.0,Amit Yadav,AMITYADAV91@OUTLOOK.COM,9256098256,chennai ,Tamil Nadu,Backpack,Accessories,27621rs,1.0,12-03-24,15-03-24,Online,delivered,
+,Meena Kumar,meenakumar67.gmail.com,72081 84863,Mumbai,Maharashtra,Camera,Fashion,37430,3.0,March 5 2024,15-03-24,Online,Pending,2.0
+94.0,Vikas Singh,VIKASSINGH59@YAHOO.COM,83003 89725,Ahmedabad,Gujarat,Backpack,electronics,27016rs,,March 5 2024,,Online,delivered,4.0
+95.0,Rohit Verma,rohitverma76.yahoo.com,+91-8879949641,pune ,Maharashtra,Laptop,electronics,33459rs,3.0,March 5 2024,2024/03/20,Online,delivered,4.0
+96.0,Arjun Mehta,arjunmehta84.yahoo.com,+91-7998999430,pune ,Maharashtra,Watch,accessories,₹7721,1.0,2024/03/15,15-03-24,COD,delivered,-1.0
+97.0,Karan Verma,KARANVERMA38@GMAIL.COM,6217850238,delhi,Maharashtra,Tablet,Electronics,₹2729,2.0,March 5 2024,15-03-24,Online,Delivered,3.0
+98.0,Rahul Agarwal,RahulAgarwal@gmail,67841 22058,delhi,Delhi,Laptop,Electronics,₹33009,3.0,12-03-24,2024/03/20,Online,Delivered,-1.0
+99.0,Amit Verma,AMITVERMA34@OUTLOOK.COM,+91-8612577481,delhi,West Bengal,Camera,electronics,45645rs,1.0,March 5 2024,,Online,Pending,
+,Anjali Gupta,ANJALIGUPTA74@OUTLOOK.COM,99961 67252,Pune,Maharashtra,Mobile,Fashion,24429rs,3.0,12-03-24,15-03-24,Online,delivered,5.0
+101.0,Amit Agarwal,AMITAGARWAL55@GMAIL.COM,+91-9244812495,delhi ,Delhi,Mobile,fashion,30728rs,3.0,March 5 2024,,Online,Delivered,-1.0
+,Anjali Kumar,anjalikumar84.outlook.com,+91-7991116941,delhi ,Delhi,Mobile,Electronics,₹25683,2.0,2024/03/15,,COD,Pending,5.0
+103.0,amit singh ,AMITSINGH52@GMAIL.COM,+91-6932061250,hyderabad ,Telangana,Shoes,accessories,₹1369,3.0,12-03-24,,cod,Delivered,2.0
+104.0,arjun gupta ,ARJUNGUPTA91@GMAIL.COM,8660468013,mumbai ,Maharashtra,Mobile,fashion,2217,,March 5 2024,,COD,Pending,3.0
+,vikas verma ,VikasVerma@gmail,65973 94343,delhi,Maharashtra,Tablet,Electronics,₹14820,,March 5 2024,15-03-24,cod,delivered,4.0
+,Meena Gupta,meenagupta43@gmail.com,+91-9248630974,ahmedabad ,Gujarat,Laptop,Electronics,33507,-1.0,March 5 2024,15-03-24,cod,Pending,5.0
+107.0,Anjali Mehta,anjalimehta96@yahoo.com,+91-7605565039,Delhi,Delhi,Mobile,accessories,5076,1.0,March 5 2024,,Online,Pending,5.0
+,Sneha Jain,SnehaJain@gmail,90644 61057,Mumbai,Maharashtra,Watch,accessories,₹10986,,12-03-24,2024/03/20,COD,Delivered,1.0
+109.0,Rohit Sharma,RohitSharma@gmail,+91-8121983824,Pune,Maharashtra,Backpack,Fashion,₹32113,1.0,March 5 2024,,cod,Delivered,-1.0
+110.0,Arjun Jain,ARJUNJAIN61@YAHOO.COM,6900993413,delhi,Delhi,Watch,accessories,36813rs,2.0,12-03-24,2024/03/20,cod,Delivered,1.0
+111.0,Priya Patel,PriyaPatel@gmail,9650365197,pune ,Maharashtra,Laptop,Electronics,21604rs,-1.0,March 5 2024,2024/03/20,Online,delivered,4.0
+112.0,Karan Mehta,karanmehta29@gmail.com,8066536977,kolkata ,West Bengal,Camera,fashion,₹23100,3.0,12-03-24,2024/03/20,cod,Pending,4.0
+113.0,pooja verma ,poojaverma51.gmail.com,95594 33665,Pune,Maharashtra,Mobile,accessories,2657rs,-1.0,March 5 2024,,Online,Delivered,1.0
+114.0,anjali kumar ,anjalikumar49@outlook.com,7045088639,chennai ,Tamil Nadu,Laptop,electronics,49124,,12-03-24,,COD,Pending,-1.0
+115.0,Priya Singh,priyasingh49@gmail.com,93194 85693,chennai ,Tamil Nadu,Camera,accessories,35486rs,-1.0,2024/03/15,,Online,Pending,3.0
+116.0,Karan Singh,karansingh29@gmail.com,+91-6327709110,pune ,Maharashtra,Backpack,Electronics,₹34125,,2024/03/15,,cod,Pending,
+117.0,Anjali Agarwal,ANJALIAGARWAL12@OUTLOOK.COM,+91-9991490231,bangalore ,Karnataka,Headphones,Accessories,₹11170,-1.0,March 5 2024,15-03-24,COD,Delivered,
+118.0,Pooja Jain,poojajain41@outlook.com,83562 45121,Pune,Maharashtra,Backpack,Electronics,28151,,March 5 2024,15-03-24,Online,Pending,1.0
+119.0,Rahul Yadav,rahulyadav49@yahoo.com,+91-8362528760,delhi,Gujarat,Backpack,Electronics,₹38527,,12-03-24,,COD,Delivered,5.0
+,Sneha Kumar,snehakumar47@gmail.com,96221 96051,Bangalore,Karnataka,Shoes,accessories,40549,2.0,2024/03/15,2024/03/20,cod,delivered,-1.0
+121.0,arjun sharma ,arjunsharma53@gmail.com,76666 00002,kolkata ,West Bengal,Watch,fashion,₹21936,,March 5 2024,2024/03/20,Online,delivered,7.0
+,Rohit Jain,rohitjain83@gmail.com,99701 43872,delhi,Maharashtra,Tablet,electronics,41283,,2024/03/15,,Online,Pending,-1.0
+123.0,Rahul Sharma,rahulsharma18@outlook.com,84825 91227,delhi,Karnataka,Camera,fashion,11660rs,,2024/03/15,15-03-24,cod,Delivered,
+124.0,arjun mehta ,ARJUNMEHTA41@OUTLOOK.COM,62005 33658,delhi,Gujarat,Backpack,Electronics,₹16938,,12-03-24,2024/03/20,Online,Pending,1.0
+,arjun verma ,ArjunVerma@gmail,+91-6997246678,chennai ,Tamil Nadu,Headphones,fashion,43946rs,3.0,March 5 2024,,Online,delivered,7.0
+,karan agarwal ,karanagarwal21@yahoo.com,7925825617,ahmedabad ,Gujarat,Watch,Electronics,₹30629,-1.0,12-03-24,,COD,Pending,3.0
+127.0,Karan Sharma,karansharma65@gmail.com,61792 08871,Bangalore,Karnataka,Laptop,electronics,3430rs,1.0,12-03-24,2024/03/20,COD,Delivered,2.0
+128.0,Neha Jain,NehaJain@gmail,6540471582,Ahmedabad,Gujarat,Headphones,Electronics,16899rs,,12-03-24,15-03-24,COD,Delivered,5.0
+129.0,Arjun Jain,arjunjain75@outlook.com,7612489358,pune ,Maharashtra,Watch,Fashion,25447,3.0,12-03-24,15-03-24,cod,Delivered,7.0
+,rahul yadav ,RahulYadav@gmail,8637794771,delhi,Gujarat,Backpack,accessories,8757rs,3.0,12-03-24,2024/03/20,Online,delivered,2.0
+,Amit Singh,amitsingh49.gmail.com,86781 46248,mumbai ,Maharashtra,Mobile,Electronics,21966,3.0,2024/03/15,2024/03/20,COD,Pending,
+,Arjun Jain,arjunjain85.gmail.com,62158 00806,ahmedabad ,Gujarat,Shoes,fashion,8746rs,1.0,12-03-24,2024/03/20,Online,Delivered,1.0
+,Karan Yadav,KARANYADAV63@GMAIL.COM,68969 31105,chennai ,Tamil Nadu,Watch,fashion,₹34334,,12-03-24,,COD,delivered,-1.0
+,Sneha Jain,snehajain85@outlook.com,+91-6200248577,Kolkata,West Bengal,Tablet,fashion,15375,1.0,2024/03/15,2024/03/20,COD,Pending,7.0
+135.0,Rohit Gupta,rohitgupta76.yahoo.com,8469980119,Pune,Maharashtra,Headphones,accessories,47097rs,3.0,12-03-24,15-03-24,cod,Pending,-1.0
+136.0,Vikas Singh,VIKASSINGH14@YAHOO.COM,+91-6304628739,ahmedabad ,Gujarat,Shoes,electronics,48057,-1.0,2024/03/15,15-03-24,Online,Delivered,-1.0
+,Rahul Kumar,rahulkumar78.yahoo.com,9030708231,delhi ,Delhi,Camera,fashion,19443,2.0,2024/03/15,15-03-24,Online,Delivered,3.0
+,Vikas Verma,vikasverma48.yahoo.com,66333 54017,mumbai ,Maharashtra,Backpack,Accessories,45627rs,2.0,12-03-24,2024/03/20,COD,delivered,-1.0
+,neha agarwal ,nehaagarwal20@yahoo.com,95128 39388,Kolkata,West Bengal,Laptop,electronics,33712rs,3.0,March 5 2024,2024/03/20,cod,Delivered,-1.0
+,Pooja Gupta,POOJAGUPTA64@GMAIL.COM,8493135729,pune ,Maharashtra,Headphones,Fashion,2062,3.0,March 5 2024,2024/03/20,Online,delivered,3.0
+,Amit Sharma,amitsharma53@outlook.com,64949 79999,delhi,Telangana,Laptop,Electronics,33149rs,3.0,2024/03/15,2024/03/20,COD,Pending,-1.0
+142.0,Amit Agarwal,AMITAGARWAL52@OUTLOOK.COM,+91-6125705112,Hyderabad,Telangana,Headphones,accessories,₹38492,,2024/03/15,15-03-24,COD,delivered,4.0
+143.0,Neha Patel,NEHAPATEL76@OUTLOOK.COM,74126 47109,Ahmedabad,Gujarat,Camera,electronics,41257rs,-1.0,March 5 2024,,Online,Delivered,2.0
+144.0,Pooja Singh,POOJASINGH23@GMAIL.COM,66825 49848,ahmedabad ,Gujarat,Camera,Fashion,34654rs,-1.0,March 5 2024,,cod,Delivered,3.0
+,Pooja Verma,poojaverma73@outlook.com,98782 94514,chennai ,Tamil Nadu,Shoes,Fashion,45098rs,3.0,12-03-24,2024/03/20,cod,Pending,4.0
+146.0,vikas yadav ,vikasyadav53.yahoo.com,+91-7761657419,delhi,Maharashtra,Tablet,Fashion,10223rs,3.0,March 5 2024,2024/03/20,cod,Pending,2.0
+,Anjali Sharma,AnjaliSharma@gmail,84300 01302,Mumbai,Maharashtra,Mobile,Fashion,44849rs,3.0,March 5 2024,15-03-24,Online,Pending,4.0
+148.0,Sneha Gupta,SnehaGupta@gmail,+91-8805084019,delhi,Tamil Nadu,Backpack,Electronics,20963,1.0,2024/03/15,,COD,delivered,5.0
+149.0,Karan Kumar,KaranKumar@gmail,77531 98317,ahmedabad ,Gujarat,Tablet,Fashion,47651rs,,2024/03/15,2024/03/20,cod,Delivered,1.0
